@@ -1,4 +1,5 @@
 @import "tailwindcss";
+<<<<<<< HEAD
 @plugin "daisyui" {
     themes: light --default;    
 }
@@ -6,6 +7,8 @@
 :root {
     --color-primary: #F04248;
 }
+=======
+>>>>>>> c6f7e7e45afff5a8faa0b54cf55474f3b9d9e069
 
 @font-face {
     font-family: 'Yekan';
@@ -14,5 +17,10 @@
 
 @theme {
     --font-yekan: "Yekan", sans-serif;
+<<<<<<< HEAD
 }
 
+=======
+    --color-red: #F04248;
+}
+>>>>>>> c6f7e7e45afff5a8faa0b54cf55474f3b9d9e069
